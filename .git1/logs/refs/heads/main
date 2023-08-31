@@ -1,0 +1,59 @@
+0000000000000000000000000000000000000000 35d20392008433582721fb19c7f03913a40e9746 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1681927323 +0500	commit (initial): first comment
+35d20392008433582721fb19c7f03913a40e9746 c3265b84f9bb6b4452504ec417855a7965afc2ba Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1682861755 +0500	commit: client changes
+c3265b84f9bb6b4452504ec417855a7965afc2ba e455e97cbf49689686ef111f4b8f32a8c707f321 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1682887367 +0500	commit: add popup
+e455e97cbf49689686ef111f4b8f32a8c707f321 514b7375489c1b82b64c46b9fb1458b0d0470503 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1682965887 +0500	commit: client changes and responsive
+514b7375489c1b82b64c46b9fb1458b0d0470503 984241dafd46d4b87024c6f1f716379f34f24b6d Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683060546 +0500	commit: client changes
+984241dafd46d4b87024c6f1f716379f34f24b6d b160c4d9ff9cf85f6d21ca2656ce8ac5e918f09c Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683061013 +0500	commit: row w-199
+b160c4d9ff9cf85f6d21ca2656ce8ac5e918f09c e4d5b10ba6abee791aae88842990ee4ac872b410 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683061486 +0500	commit: fixes col issue
+e4d5b10ba6abee791aae88842990ee4ac872b410 c7ccd1915759dcbe2bf7ab75da81e397ad4489a4 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683062130 +0500	commit: fixed column issue
+c7ccd1915759dcbe2bf7ab75da81e397ad4489a4 965c5213c20684e0b3108df609fbcea7d1d20d42 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683144458 +0500	commit: client changes
+965c5213c20684e0b3108df609fbcea7d1d20d42 e9af3b6b3091848ec862fee2675cf29a9eee38c5 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683145195 +0500	commit: fixed join us section
+e9af3b6b3091848ec862fee2675cf29a9eee38c5 060c76be8e37ffaaee4eda205c06202f7176a17c Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683209450 +0500	commit: client changes
+060c76be8e37ffaaee4eda205c06202f7176a17c fd22c518b170edcc269baded0f349a49c33fe0e7 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683209566 +0500	commit: remove extra space
+fd22c518b170edcc269baded0f349a49c33fe0e7 9919c8720b23a32ba9446fea81bcd45ed7589c5b Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683236099 +0500	commit: add login api and fixed layout
+9919c8720b23a32ba9446fea81bcd45ed7589c5b d6db509f3e370cfc3b477fdee4fe58c599151970 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683238329 +0500	commit: fixed search bar
+d6db509f3e370cfc3b477fdee4fe58c599151970 b8e0204fb8a8a0707aed955d76a3b7fc89d37fd9 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683387530 +0500	commit: fixes
+b8e0204fb8a8a0707aed955d76a3b7fc89d37fd9 9b171ffa6a5c11a625c5a3de2411b3d9764f3932 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683583296 +0500	commit: add career apis
+9b171ffa6a5c11a625c5a3de2411b3d9764f3932 47993d41c61df24120e34ea1417a3efa2f46f37b Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683630845 +0500	commit: add api data
+47993d41c61df24120e34ea1417a3efa2f46f37b 5ab8d8eb55735c0d51bb38598d799c6ebc615c3e Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683661846 +0500	commit: fixes
+5ab8d8eb55735c0d51bb38598d799c6ebc615c3e 099ef0012528c4ab33d1400050add63413e25263 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683662840 +0500	commit: set grid
+099ef0012528c4ab33d1400050add63413e25263 3a78782937fd94455da9309b139c147e81bf8b63 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683722371 +0500	commit: add crud university and career
+3a78782937fd94455da9309b139c147e81bf8b63 f67c92bc3b745e3ed5c3ab8dc010941013f1f76e Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683730776 +0500	commit: remove json
+f67c92bc3b745e3ed5c3ab8dc010941013f1f76e 1079dbf597bddcb99b1ccd70ad0a0b614337e823 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683740020 +0500	commit: fixes
+1079dbf597bddcb99b1ccd70ad0a0b614337e823 ea31c48c258af56037aace287f0e30acecbcef64 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683755798 +0500	commit: fixes
+ea31c48c258af56037aace287f0e30acecbcef64 e75e13d5048eb349c3ea989c3f2e42697648e226 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683757244 +0500	commit: fixes
+e75e13d5048eb349c3ea989c3f2e42697648e226 e793efc2472db505d7c83bdee06335bbdb200b25 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683805839 +0500	commit: fixes
+e793efc2472db505d7c83bdee06335bbdb200b25 3d9a2d0de8d8da90a79a7197e4750254fd4d3e56 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683843309 +0500	commit: add category crud
+3d9a2d0de8d8da90a79a7197e4750254fd4d3e56 cbf26f007a7db194082f4330f675dc24247db118 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1683914612 +0500	commit: add client fixes
+cbf26f007a7db194082f4330f675dc24247db118 6fa30ea708e456acda13754b0f84e0f8165cbf77 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1684154903 +0500	commit: fixes
+6fa30ea708e456acda13754b0f84e0f8165cbf77 055e19f57594f9ee9b93a1b6248fc4ed0db20056 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1684274786 +0500	commit: remove login label and add dropdowgn
+055e19f57594f9ee9b93a1b6248fc4ed0db20056 5a7c24000f210fdc9d9648bf8b80dd69e5567d97 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1685307642 +0500	commit: fixes
+5a7c24000f210fdc9d9648bf8b80dd69e5567d97 13710ec8da97186f00817a4ab09a169f2c911719 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1685448576 +0500	commit: add career work
+13710ec8da97186f00817a4ab09a169f2c911719 0c1ed4ba86b6125d87b83eb695297a72b9d5eff7 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1685728993 +0500	commit: fixes
+0c1ed4ba86b6125d87b83eb695297a72b9d5eff7 7d4921477f72d35541c474d6bb60574cdb41406c Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1685911952 +0500	commit: add seearch bar
+7d4921477f72d35541c474d6bb60574cdb41406c a0a42c45398f2bc88552375576b1375ff59f739c Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1686401041 +0500	commit: fixes
+a0a42c45398f2bc88552375576b1375ff59f739c f23435f81a7dcff50d8a2369f723a8ecfaed36ab Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1687104751 +0500	commit: fixes
+f23435f81a7dcff50d8a2369f723a8ecfaed36ab cedf90f4e0d5dfea527b82757bfb2644abc9e57f Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1687374997 +0500	commit: fixes
+cedf90f4e0d5dfea527b82757bfb2644abc9e57f 14ace6bd1042b09609f309a559315dcc767fc0d5 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1687388361 +0500	commit: fixes
+14ace6bd1042b09609f309a559315dcc767fc0d5 a9f0a6ae3a8a0b669617502d4fea9020d1e77397 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1687605415 +0500	commit: fixes
+a9f0a6ae3a8a0b669617502d4fea9020d1e77397 c7e517f58d5ede0b3bf0df14efe3efbef3d7825a Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1687605425 +0500	pull: Merge made by the 'recursive' strategy.
+c7e517f58d5ede0b3bf0df14efe3efbef3d7825a 3b7dbebc5a2654cc5c3729b1259ea2c25dbf209a Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1687884599 +0500	commit: fixes
+3b7dbebc5a2654cc5c3729b1259ea2c25dbf209a 3293555b982e39bb5aa5782fcb8302eccc9c9897 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1688133233 +0500	commit: fixes
+3293555b982e39bb5aa5782fcb8302eccc9c9897 3b9f4518a917f30db726b27f640cee0f72903f29 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1688298243 +0500	commit: fixes
+3b9f4518a917f30db726b27f640cee0f72903f29 5db781163493d5c638bf69fbe91d65846b5570cf Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1688504104 +0500	commit: fixes
+5db781163493d5c638bf69fbe91d65846b5570cf b585b968ee9e3f8c571804ac578b6bfec69d8093 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1688763397 +0500	commit: fixes
+b585b968ee9e3f8c571804ac578b6bfec69d8093 38ae68615d197b06213633ba22cfefe294cc9692 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1688765037 +0500	commit: fixes
+38ae68615d197b06213633ba22cfefe294cc9692 27fb079c9194127560b66fe6b4a3b4e5939b7338 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1688979281 +0500	commit: fixes
+27fb079c9194127560b66fe6b4a3b4e5939b7338 a7048963cad2e3845d7ec7bae30442e9fcf59f94 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1689175595 +0500	commit: fixes
+a7048963cad2e3845d7ec7bae30442e9fcf59f94 382447ca60b9f74ff6789ab97fe543173dee3d54 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1689194524 +0500	commit: fixes uni
+382447ca60b9f74ff6789ab97fe543173dee3d54 b94cb96920a01f475603a77a7293b7e5dda22710 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1689279228 +0500	commit: fixes.
+b94cb96920a01f475603a77a7293b7e5dda22710 a31127cb505e0a3c96fd62088254b9154579e1fb Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1689329640 +0500	commit: fixe
+a31127cb505e0a3c96fd62088254b9154579e1fb fad3ef5cfb32d1dce1d63fb7cbee594968159489 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1689758039 +0500	commit: fixes
+fad3ef5cfb32d1dce1d63fb7cbee594968159489 6b83cc18f04984613290f1bbe1c5827feabaa7f1 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1690627455 +0500	commit: sory to sort
+6b83cc18f04984613290f1bbe1c5827feabaa7f1 7907f635fce300d573895f8086354bf7697c58f0 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1691775207 +0500	commit: fixes
+7907f635fce300d573895f8086354bf7697c58f0 f4efe7e7c7e11f949b9c736bb873ab69ca5454bf Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1691791745 +0500	commit: fixes
+f4efe7e7c7e11f949b9c736bb873ab69ca5454bf 509c7c48688845cfce79221d7579b47ba7d9a704 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1692632220 +0500	commit: fixes
+509c7c48688845cfce79221d7579b47ba7d9a704 76a17ccb64adc652e23f66eec8d5ed5c539b31b2 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1692740007 +0500	commit: fixes
+76a17ccb64adc652e23f66eec8d5ed5c539b31b2 ff10526a4dda08173e1d1b7571a18af21502ee1e Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1692808509 +0500	commit: fixes
+ff10526a4dda08173e1d1b7571a18af21502ee1e 0deb7907e84764dedc2399f8a6f97b44ce3bd9b8 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1693068151 +0500	commit: fixes
+0deb7907e84764dedc2399f8a6f97b44ce3bd9b8 e1abaa60ca23ddd73299525ce7d1f81e35b2ba96 Faizan Zahid Siddique <faizan.zahid@koderlabs.com> 1693396193 +0500	commit: fixes
